@@ -1,3 +1,7 @@
+- URL --action-list: https://ibb.co/LvT2M6z
+- URL --action-get: https://ibb.co/17dcy8w 
+- URL --action-add: https://ibb.co/F060Pqx
+- URL --action-remove: https://ibb.co/4dKMmg7
 
 # Домашнє завдання 1
 
